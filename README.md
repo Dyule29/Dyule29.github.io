@@ -1,1 +1,1 @@
-# computer science be like
+# my pokemon card shop
