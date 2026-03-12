@@ -1,1 +1,1 @@
-# my pokemon card shop
+# my pokemon tcg shop
